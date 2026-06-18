@@ -185,7 +185,6 @@ Detailed description of crate purpose
 
 ### Dependency Role
 Analysis of crate's position in dependency graph
-```
 
 ---
 
@@ -287,7 +286,5 @@ If you encounter any issues or have questions, please open an issue on GitHub.
 <div align="center">
 
 **Built with ❤️ for the Rust community**
-
-[⬆ Back to Top](#-cargo-arc-md)
 
 </div>
