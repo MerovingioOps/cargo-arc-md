@@ -244,6 +244,12 @@ generate-docs-helper/
 
 ---
 
+## ✨ Fix version 0.1.1
+
+- The main problem was in parse_crate_modules (line 492): it was only reading .rs plain text files in src/ — it wasn't recursively exploring subdirectories. That's why src/xxx/, src/yyy/, src/zzzz/, etc., were missing.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
