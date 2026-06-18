@@ -1,6 +1,6 @@
 [package]
 name = "cargo-arc-md"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Julio Iglesias Pérez - julioiglesiasp - merovingioops"]
 edition = "2021"
 description = "Generate AI-optimized markdown documentation from cargo-arc analysis"
